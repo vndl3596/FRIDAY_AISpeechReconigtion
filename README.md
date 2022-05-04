@@ -1,3 +1,3 @@
 # FRIDAY_AISpeechReconigtion
-Language: Python, SpeechReconigtion </br>
+Language: Python, Window Application </br>
 In Project:
